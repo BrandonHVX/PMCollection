@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter SolidState', // <title>
-  manifestName: 'SolidState',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'PM COLLECTION', // <title>
+  manifestName: 'PM COLLECTION',
+  manifestShortName: 'Home', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
